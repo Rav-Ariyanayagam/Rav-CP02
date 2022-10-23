@@ -1,0 +1,22 @@
+{
+  "name": "rav-cp02",
+  "version": "1.0.0",
+  "description": "Test for creating a repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rav-Ariyanayagam/Rav-CP02.git"
+  },
+  "author": "Rav Ariyanayagam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rav-Ariyanayagam/Rav-CP02/issues"
+  },
+  "homepage": "https://github.com/Rav-Ariyanayagam/Rav-CP02#readme",
+  "dependencies": {
+    "jest": "^29.2.1"
+  }
+}
